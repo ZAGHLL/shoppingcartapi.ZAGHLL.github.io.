@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background: linear-gradient(
+    90deg,
+    rgba(6, 1, 88, 1) 0%,
+    rgba(7, 7, 123, 1) 7%,
+    rgba(13, 66, 169, 1) 43%,
+    rgba(9, 103, 187, 1) 83%,
+    rgba(71, 127, 209, 1) 100%
+  );
+}
+
+.card .card-header {
+  background: linear-gradient(
+    90deg,
+    rgba(6, 1, 88, 1) 0%,
+    rgba(7, 7, 123, 1) 7%,
+    rgba(13, 66, 169, 1) 43%,
+    rgba(9, 103, 187, 1) 83%,
+    rgba(71, 127, 209, 1) 100%
+  );
+  color: #fff;
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+.card .card-footer {
+  background-color: #fff;
+}
+
+.badge {
+  background: linear-gradient(
+    90deg,
+    rgba(6, 1, 88, 1) 0%,
+    rgba(7, 7, 123, 1) 7%,
+    rgba(13, 66, 169, 1) 43%,
+    rgba(9, 103, 187, 1) 83%,
+    rgba(71, 127, 209, 1) 100%
+  );
+  padding: 10px 20px;
+}
+
+.btn {
+  float: right;
+  background: linear-gradient(
+    90deg,
+    rgba(6, 1, 88, 1) 0%,
+    rgba(7, 7, 123, 1) 7%,
+    rgba(13, 66, 169, 1) 43%,
+    rgba(9, 103, 187, 1) 83%,
+    rgba(71, 127, 209, 1) 100%
+  );
+  cursor: pointer;
+  transition: 0.7s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+i {
+  cursor: pointer;
+  color: #fff;
+  transition: 0.7s ease;
+}
+
+i:hover {
+  transform: scale(1.1);
+}

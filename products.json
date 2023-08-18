@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": 1,
+        "name": "men fashion",
+        "image":"img/majid-akbari-Egj4Dg107kc-unsplash.jpg",
+        "price": 999
+      },
+    
+    {
+        "id": 2,
+        "name": "men fashion",
+        "image":"img/rodrigo-summer-FzazLnJ9Yks-unsplash.jpg",
+        "price": 1099
+      },
+    
+    {
+        "id": 3,
+        "name": "men fashion",
+        "image":"img/sven-ciupka-aZFc5NRtJUQ-unsplash.jpg",
+        "price": 1199
+      },
+    
+    {
+        "id": 4,
+        "name": "men fashion",
+        "image":"img/phil-monte-4V4t0JcOM5E-unsplash.jpg",
+        "price": 1299
+      },
+    
+    {
+        "id": 5,
+        "name": "men fashion",
+        "image":"img/austin-wade-d2s8NQ6WD24-unsplash.jpg",
+        "price": 1399
+      },
+    
+    {
+        "id": 6,
+        "name": "men fashion",
+        "image":"img/cameron-stewart-xpD6kPocqIs-unsplash.jpg",
+        "price": 1499
+      }
+    
+    ]
